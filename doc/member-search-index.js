@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"com.appsKC.isbntools","c":"ValidateISBN","l":"checkISBN(String)","url":"checkISBN(java.lang.String)"},{"p":"com.appsKC.isbntools","c":"ValidateISBN","l":"ValidateISBN()","url":"%3Cinit%3E()"}]
